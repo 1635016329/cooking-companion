@@ -1,0 +1,11 @@
+
+l	java:S116"PRename this field "APPID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…«ò«8¯øĞÈ1
+{	java:S116"ZRename this field "RSA_PRIVATE_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øœé‹øÿÿÿÿ8°øĞÈ1
+v	java:S116"URename this field "notify_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»¹€üÿÿÿÿ8°øĞÈ1
+q	java:S116'"URename this field "return_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–×‰8°øĞÈ1
+j	java:S116-"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù˜‡°8°øĞÈ1
+s	java:S1163"RRename this field "CHARSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›İÔùÿÿÿÿ8°øĞÈ1
+r	java:S1169"QRename this field "FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÔƒŸûÿÿÿÿ8°øĞÈ1
+}	java:S116?"\Rename this field "ALIPAY_PUBLIC_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÿ¸Óıÿÿÿÿ8°øĞÈ1
+t	java:S116E"SRename this field "log_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»õ¢şÿÿÿÿ8°øĞÈ1
+t	java:S116K"SRename this field "SIGNTYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²â½‚ûÿÿÿÿ8°øĞÈ1
